@@ -1,7 +1,9 @@
 # Aucry Solidity Contracts
 
-In an effort to increase trust and transparency, we are publishing our smart contract source code on both GitHub (while in development) and BSCScan (once ready to launch). This repo is a work in progress and currently AucryHub is oversize.
-We welcome pull requests and issues from the community.
+In an effort to increase trust and transparency, we are publishing our smart contract source code on both GitHub (while in development) and BSCScan (once ready to launch). 
+
+*This repo is a work in progress and currently AucryHub is oversize.
+We welcome pull requests and issues from the community.*
 
 ### Repo Root:
 
